@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: GitHub CLI Issue Tracker
+    about: Please take issues related to the CLI itself on the official issue tracker.
+    url: https://github.com/cli/cli/issues
