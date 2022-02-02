@@ -16,7 +16,8 @@ For up-to-date information on current CLI releases on Alpine, please see <https:
 
 | GitHub CLI version | Landed on which versions | Link to merge requests on aports repo |
 | --- | --- | --- |
-| [v2.4.0](https://github.com/cli/cli/releases/v2.4.0) | N/A, still on an MR | <https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/28800> |
+| [v2.5.0](https://github.com/cli/cli/releases/v2.4.0) | N/A, still on an MR | <https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/28800> |
+| [v2.4.0](https://github.com/cli/cli/releases/v2.4.0) | edge only | <https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/28800> |
 | [v2.3.0](https://github.com/cli/cli/releases/v2.3.0) | edge only | <https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/28068> |
 | [v2.2.0](https://github.com/cli/cli/releases/v2.2.0) | v3.15, edge | <https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/26807> |
 | [v2.1.0](https://github.com/cli/cli/releases/v2.1.0) | edge | <https://gitlab.alpinelinux.org/alpine/aports/-/merge_requests/26453> |
